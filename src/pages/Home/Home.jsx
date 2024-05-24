@@ -21,8 +21,8 @@ const Home = () => {
       </div>
 
       <div className="hero-header">
-        <h1>Artistry and Engineering</h1>
-        <h1>By Soren</h1>
+        <h1>Design and Engineering</h1>
+        <h1>By Larry Ly</h1>
       </div>
 
       <div className="home-logo">
